@@ -2,7 +2,8 @@
 ### Hi there 👋, I'm Shamim
 #### Full Stack Web Developer
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Professional certified Full Stack MERN Developer seeking a competitive and challenging environment where I
+can serve your organization and establish a career for myself.
 
 Skills:  REACT / JS / HTML / CSS / Tailwind CSS / Bootstrap / Authentication / NodeJs / ExpressJs / MongoDB /
 
