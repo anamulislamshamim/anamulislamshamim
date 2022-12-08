@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQGdWi3GV05fgA/profile-displaybackgroundimage-shrink_350_1400/0/1668866845679?e=1675296000&v=beta&t=2ejjHVAxSJBO5oQpT8TDBoFvuTbApLVd8SWoCKTKwA0" align="center" style="width: 100%; height:400px" />
+<img src="https://c4.wallpaperflare.com/wallpaper/387/1/67/technology-programming-angularjs-coding-wallpaper-preview.jpg" align="center" style="width: 100%; height:400px" />
 ### Hi there 👋, I'm Shamim
 #### Full Stack Web Developer
 
