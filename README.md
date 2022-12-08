@@ -5,7 +5,7 @@
 Professional certified Full Stack MERN Developer seeking a competitive and challenging environment where I
 can serve your organization and establish a career for myself.
 
-Skills:  REACT / JS / HTML / CSS / Tailwind CSS / Bootstrap / Authentication / NodeJs / ExpressJs / MongoDB / Firebase / JWT / Stripe
+Skills:  <button style="background-color:green;color:white">REACT</button> / JS / HTML / CSS / Tailwind CSS / Bootstrap / Authentication / NodeJs / ExpressJs / MongoDB / Firebase / JWT / Stripe
 
 - 🔭 I’m currently working on a personal MERN project. 
 - 🌱 I’m currently learning C/C++ 
