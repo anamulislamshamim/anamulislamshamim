@@ -8,7 +8,7 @@ can serve your organization and establish a career for myself.
 Skills:  <span style="background-color:green;color:white">REACT</span> / JS / HTML / CSS / Tailwind CSS / Bootstrap / Authentication / NodeJs / ExpressJs / MongoDB / Firebase / JWT / Stripe
 
 - 🔭 I’m currently working on a personal MERN project. 
-- 🌱 I’m currently learning C/C++ 
+- 🌱 I’m currently learning C/C++, Python, AWS 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about MERN 
 
