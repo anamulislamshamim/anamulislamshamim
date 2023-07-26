@@ -1,12 +1,12 @@
 <img src="https://academy.syrian-youth.org/wp-content/uploads/2022/08/%D8%A3%D9%83%D8%A7%D8%AF%D9%8A%D9%85%D9%8A%D8%A9-%D8%AA%D8%AC%D9%85%D8%B9-%D8%A7%D9%84%D8%B4%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A.jpg.webp" align="center" style="width: 100%; height:400px" />
 ### Hi there 👋, I'm Shamim
-#### Google & IBM certified Junior Security Analyst.
+#### Google & IBM certified Security Analyst.
 
-Now I am doing Google and AWS cloud security training at Google on Coursera and Amazon educate. I want to work for such a company where my work will affect on billions of users. I am dreaming to join Google as a security specialist and become a Googler.
+Now I am doing Google and AWS cloud security training at Google on Coursera and Amazon educate. I want to work for such a company where my work will affect on billions of users. With my real world hacking experience and high level security knowledge, I believe I will be able to make a positing impact on any organization's security by protecting their application, network and ctirical assets from cyber threat.
 
-Skills:  <span style="background-color:green;color:white">REACT</span> Web Development (MERN), C/C++, Python, Cybersecurity, Google Cloud Security, Problem Solving
+Skills:  <span style="background-color:green;color:white">REACT</span> Web Development (MERN), C/C++, Python Automation, Cybersecurity, Google Cloud Security, Application and Network Security and Problem Solving
 
-- 🔭 I’m currently doing professional cyber security training at Google on Coursera. 
+- 🔭 I’m currently doing professional cyber security training at IBM on Coursera. 
 - 🌱 I’m currently learning C/C++, Python, AWS 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Cybersecurity. I am ready to serve your organization as a junior cybersecurity analyst.
