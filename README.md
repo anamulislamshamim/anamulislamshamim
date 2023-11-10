@@ -4,12 +4,12 @@
 
 Now I am doing Google and AWS cloud security training at Google on Coursera and Amazon educate. I want to work for such a company where my work will affect on billions of users. With my real world hacking experience and high level security knowledge, I believe I will be able to make a positing impact on any organization's security by protecting their application, network and ctirical assets from cyber threat.
 
-Skills:  <span style="background-color:green;color:white">REACT</span> Web Development (MERN), C/C++, Python Automation, Cybersecurity, Google Cloud Security, Application and Network Security and Problem Solving
+Skills: Web Development (MERN), Python, Django, Flask, Web Socket, Python Automation, C/C++, Cybersecurity, Cloud Security, Algo&DS and Problem Solving
 
-- 🔭 I’m currently doing professional cyber security training at IBM on Coursera. 
-- 🌱 I’m currently learning C/C++, Python, AWS 
+- 🔭 I’m currently pursuing Applied DevOps certification at IBM on Coursera. 
+- 🌱 I’m currently learning Docker, Kubernetes, CI/CD
 - 👯 I’m looking to collaborate on Github 
-- 💬 Ask me about Cybersecurity. I am ready to serve your organization as a junior cybersecurity analyst.
+- 💬 Ask me about Cybersecurity, Web Development (MERN), Django, Flask, IT Automation. I am ready to serve your organization as a junior Software Engineer.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/anamulislamshamim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/anamul-islam-shamim-73714924b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/anamulislam.shamim)  
