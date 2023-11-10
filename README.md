@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm Shamim
 #### Google & IBM certified Security Analyst and Full Stack Software Engineer (React, NodeJS, Python, Django, Flask, MongoDB, Postgresql, Oracle Database, SQL, MySQL, SQLITE3).
 
-Now I am pursuing Applied DevOps certification at IBM on Coursera. I want to work for such a company where my work will affect on billions of users. With my real world hacking experience and high level security knowledge and excellent engineering skills, I believe I will be able to make a positing impact on any organization by developing their product, creating innovative product and protecting their application, network and ctirical assets from cyber threat.
+Now I am pursuing Applied DevOps certification at IBM on Coursera. I want to work for such a company from where my work will affect on billions of users. With my real world hacking experience and high level security knowledge and excellent engineering skills, I believe I will be able to make a positing impact on any organization by developing their product, creating innovative product and protecting their application, network and ctirical assets from cyber threat.
 
 Skills: Web Development (MERN), Python, Django, Flask, Web Socket, Python Automation, C/C++, Cybersecurity, Cloud Security, Algo&DS and Problem Solving
 
